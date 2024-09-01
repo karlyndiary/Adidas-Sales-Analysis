@@ -5,8 +5,8 @@ import urllib
 
 df = pd.read_csv(r'C:\Users\Karen Fernandes\anaconda3\Files\Projects\Adidas Sales Analysis\adidas_sales_dataset.csv')
 
-# rename Unnamed: 0 column to id
-df.rename(columns={'Unnamed: 0': 'id'}, inplace=True)
+# drop Unnamed: 0 column
+df.drop('Unnamed: 0', axis=1, inplace=True)
 
 server = 'LAPTOP-68P3K4HH\SQLEXPRESS'
 database = 'Adidas'
