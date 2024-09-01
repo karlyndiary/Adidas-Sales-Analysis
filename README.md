@@ -21,7 +21,6 @@ This project aims to explore and assess the performance of Adidas' sales through
 
 ## Data Description
 
-- id: A unique identifier for each record or transaction in the dataset.
 - retailer: The name of the retailer where the transaction took place.
 - retailer_id: A unique identifier for each retailer.
 - invoice_date: The date when the transaction or sale occurred.
