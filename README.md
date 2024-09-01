@@ -39,15 +39,26 @@ This project aims to explore and assess the performance of Adidas' sales through
 
 ## Summary of Insights
 
-- Which products generate the highest total sales and profits across all regions?
-- How do different regions perform in terms of sales and profit margins?
-- What is the relationship between sales method (in-store vs. online) and profitability?
-- Which retailers have the highest sales volumes and operating profit?
-- Are there specific months or seasons with higher sales or profitability?
-- What impact does the price per unit have on the number of units sold?
-- What are the most profitable product categories in terms of operating margin?
-- How does the average sales price per unit vary across different regions and retailers?
-- Which cities have the highest demand for Adidas products?
-- Are there any significant differences in sales performance between product types (e.g., footwear, apparel, accessories)?
+- **Which products generate the highest total sales and profits across all regions?**
+
+  Men's Street Footwear has achieved the highest total sales of $20.88 million and the highest operating profit of $8.28 million, while Women's Athletic Footwear has the lowest total sales at $10.66 million and the lowest operating profit at $3.89 million.
+
+- **How do different regions perform in terms of sales and profit margins?**
+
+- **What is the relationship between sales method (in-store vs. online) and profitability?**
+
+- **Which retailers have the highest sales volumes and operating profit?**
+
+- **Are there specific months or seasons with higher sales or profitability?**
+
+- **What impact does the price per unit have on the number of units sold?**
+
+- **What are the most profitable product categories in terms of operating margin?**
+
+- **How does the average sales price per unit vary across different regions and retailers?**
+
+- **Which cities have the highest demand for Adidas products?**
+
+- **Are there any significant differences in sales performance between product types (e.g., footwear, apparel, accessories)?**
 
 ## Recommendations
