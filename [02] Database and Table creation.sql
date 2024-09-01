@@ -3,7 +3,7 @@ CREATE DATABASE Adidas;
 USE Adidas;
 
 CREATE TABLE sales (
-	id				  Int PRIMARY KEY,
+    id		      Int PRIMARY KEY,
     retailer          Varchar(20),        
     retailer_id       Int,         
     invoice_date      Date,
@@ -17,7 +17,7 @@ CREATE TABLE sales (
     operating_profit  Float,       
     operating_margin  Float,       
     sales_method      Varchar(20),
-	year			  Int,
-	month			  Int,
-	day				  Int
+    year	      Int,
+    month	      Int,
+    day		      Int
 );
