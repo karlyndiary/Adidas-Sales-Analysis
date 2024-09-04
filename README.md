@@ -10,7 +10,7 @@
 * [Recommendations](#recommendations)
 
 ## Business Problem: 
-**Analyzing Sales Performance and Profitability Across US Retailers Description**
+**Analyzing Sales Performance and Profitability Across US Retailers**
 
 This project aims to explore and assess the performance of Adidas' sales through different retailers across regions in the US. We'll investigate factors like product performance, regional differences, sales methods (in-store vs. online), and profitability to uncover trends and opportunities for improving sales strategy.
 
