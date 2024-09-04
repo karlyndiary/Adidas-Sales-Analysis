@@ -54,8 +54,6 @@ This project aims to explore and assess the performance of Adidas' sales through
 
 - **What impact does the price per unit have on the number of units sold?**
 
-- **What are the most profitable product categories in terms of operating margin?**
-
 - **How does the average sales price per unit vary across different regions and retailers?**
 
 - **Which cities have the highest demand for Adidas products?**
