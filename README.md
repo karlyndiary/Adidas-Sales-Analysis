@@ -1,4 +1,5 @@
 # Adidas Sales Analysis
+![873f6616482709 562ad21b4d24f](https://github.com/user-attachments/assets/adba7a20-c6e7-4cee-954f-8e7cf10d7932)
 
 ## Table of Contents
 * [Business Problem](#business-problem)
