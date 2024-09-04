@@ -62,4 +62,14 @@ This project aims to explore and assess the performance of Adidas' sales through
 
 - **Are there any significant differences in sales performance between product types (e.g., footwear, apparel, accessories)?**
 
+### Key Calculated KPI Metrics:
+- Total Sales per Region/Retailer/Product
+- Operating Profit Margin (%)
+- Average Sales Price per Unit
+- Units Sold per Month
+- Revenue Growth Rate
+- Profit Contribution by Product Category
+- Seasonality Index (based on sales trends)
+- Return on Sales (ROS)
+
 ## Recommendations
