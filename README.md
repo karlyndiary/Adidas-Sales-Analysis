@@ -58,8 +58,6 @@ This project aims to explore and assess the performance of Adidas' sales through
 
 - **Which cities have the highest demand for Adidas products?**
 
-- **Are there any significant differences in sales performance between product types (e.g., footwear, apparel, accessories)?**
-
 ### Key Calculated KPI Metrics:
 - Total Sales per Region/Retailer/Product
 - Operating Profit Margin (%)
