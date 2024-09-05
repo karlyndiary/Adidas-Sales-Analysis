@@ -1,3 +1,7 @@
+- Total Products
+```
+=COUNTA(UNIQUE(sales[product]))
+```
 - Total Sales(M)
 ```
 =SUM(sales[total_sales])/1000000
@@ -17,7 +21,7 @@ Right click -> Format Cells -> Number -> Custom -> Type $120.17,"M" -> Click ok
 ```
 - Average Revenue Growth Rate
 ```
-
+=AVERAGE(sales!R2:R9649)
 ```
 - Profit Contribution by Product Category
 ```
@@ -29,5 +33,5 @@ Right click -> Format Cells -> Number -> Custom -> Type $120.17,"M" -> Click ok
 ```
 - Return on Sales (ROS)
 ```
-
+=AVERAGE(sales!L2:L9649)
 ```
