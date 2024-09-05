@@ -9,7 +9,7 @@ Right click -> Format Cells -> Number -> Custom -> Type $120.17,"M" -> Click ok
 ```
 - Operating Profit Margin (%)
 ```
-
+=AVERAGE(sales[operating_margin])
 ```
 - Average Sales Price per Unit
 ```
