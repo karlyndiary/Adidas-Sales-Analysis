@@ -1,6 +1,6 @@
-- Total Products
+- Average Units Sold per Product
 ```
-=COUNTA(UNIQUE(sales[product]))
+=AVERAGE(sales[units_sold])
 ```
 - Total Sales(M)
 ```
@@ -11,25 +11,13 @@ Right click -> Format Cells -> Number -> Custom -> Type $120.17,"M" -> Click ok
 ```
 =AVERAGE(sales[operating_margin])
 ```
-- Average Sales Price per Unit
+- Total Operating Profit (in Millions)
 ```
-
-```
-- Units Sold per Month
-```
-
+=SUM(sales[operating_profit]) / 1000000
 ```
 - Average Revenue Growth Rate
 ```
 =AVERAGE(sales!R2:R9649)
-```
-- Profit Contribution by Product Category
-```
-
-```
-- Seasonality Index (based on sales trends)
-```
-
 ```
 - Return on Sales (ROS)
 ```
