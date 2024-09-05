@@ -1,24 +1,33 @@
-- Count of Unique Brands
+- Total Sales(M)
 ```
-=COUNTA(UNIQUE(PhonesView!C2:C526))
+=SUM(sales[total_sales])/1000000
+Right click -> Format Cells -> Number -> Custom -> Type $120.17,"M" -> Click ok
 ```
-- Count of Products
+- Operating Profit Margin (%)
 ```
-=COUNTA(UNIQUE(PhonesView!A2:A526))
+
 ```
-- Lowest Price
+- Average Sales Price per Unit
 ```
-=MIN(PhonesView!F2:F526)
+
 ```
-- Highest Price
+- Units Sold per Month
 ```
-=MAX(PhonesView!F2:F526)
+
 ```
-- Average Price
+- Average Revenue Growth Rate
 ```
-=AVERAGE(PhonesView!F2:F526)
+
 ```
-- Average Rating
+- Profit Contribution by Product Category
 ```
-=AVERAGE(PhonesView!R2:R526)
+
+```
+- Seasonality Index (based on sales trends)
+```
+
+```
+- Return on Sales (ROS)
+```
+
 ```
