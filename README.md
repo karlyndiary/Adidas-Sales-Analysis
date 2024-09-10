@@ -42,7 +42,9 @@ This project aims to explore and assess the performance of Adidas' sales through
 
 - **Which products generate the highest total sales and profits across all regions?**
 
-  Men's Street Footwear has achieved the highest total sales of $20.88 million and the highest operating profit of $8.28 million, while Women's Athletic Footwear has the lowest total sales at $10.66 million and the lowest operating profit at $3.89 million.
+    The West is the most profitable region, with Men's Street Footwear leading in sales, followed by Men's Athletic Footwear. In the West, Women's Street Footwear also has a significant contribution but ranks lower in comparison.
+    
+    The South and Midwest have relatively lower sales compared to other regions. In the South, Women's Apparel leads, while Women's Athletic Footwear has the lowest sales. The Midwest also has similar patterns of sales distribution, but the totals are slightly lower than the South.
 
 - **How do different regions perform in terms of sales and profit margins?**
 
