@@ -48,6 +48,8 @@ This project aims to explore and assess the performance of Adidas' sales through
 
 - **How do different regions perform in terms of sales and profit margins?**
 
+    The West is the highest-performing region, accounting for 30% of total sales ($36,436,157.00), with strong performance across multiple product categories. The Midwest is the least performing region, contributing 14% ($16,674,434.00) of total sales. The Northeast ranks second at 21%, followed by the Southeast at 18% and the South at 17%.
+
 - **What is the relationship between sales method (in-store vs. online) and profitability?**
 
 - **Which retailers have the highest sales volumes and operating profit?**
