@@ -40,13 +40,13 @@ This project aims to explore and assess the performance of Adidas' sales through
 
 ## Summary of Insights
 
-- **Which products generate the highest total sales and profits across all regions?**
+- **Which products generate the highest total sales across all regions?**
 
     The West is the most profitable region, with Men's Street Footwear leading in sales, followed by Men's Athletic Footwear. In the West, Women's Street Footwear also has a significant contribution but ranks lower in comparison.
     
     The South and Midwest have relatively lower sales compared to other regions. In the South, Women's Apparel leads, while Women's Athletic Footwear has the lowest sales. The Midwest also has similar patterns of sales distribution, but the totals are slightly lower than the South.
 
-- **How do different regions perform in terms of sales and profit margins?**
+- **How do different regions perform in terms of sales?**
 
     The West is the highest-performing region, accounting for 30% of total sales ($36,436,157.00), with strong performance across multiple product categories. The Midwest is the least performing region, contributing 14% ($16,674,434.00) of total sales. The Northeast ranks second at 21%, followed by the Southeast at 18% and the South at 17%.
 
