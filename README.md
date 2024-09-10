@@ -52,6 +52,8 @@ This project aims to explore and assess the performance of Adidas' sales through
 
 - **What is the relationship between sales method (in-store vs. online) and profitability?**
 
+    There are three sales methods: In-store, Online, and Outlet. Online is the most profitable, contributing 41% of total profitability, followed by Outlet at 32%, and In-store at 27%. These figures highlight the growing importance of online sales channels in driving profitability.
+    
 - **Which retailers have the highest sales volumes and operating profit?**
 
 - **Are there specific months or seasons with higher sales or profitability?**
