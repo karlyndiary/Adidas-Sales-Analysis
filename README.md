@@ -76,6 +76,7 @@ This project aims to explore and assess the performance of Adidas' sales through
 - Average Revenue Growth Rate
 
 - Return on Sales (ROS)
+![Adidas Sales Dashboard](https://github.com/user-attachments/assets/102caa6f-fea4-420f-a019-9325c30abe13)
 
 
 ## Recommendations
